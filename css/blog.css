@@ -1,0 +1,15 @@
+
+.blog-bg-img{
+    height: 325px;
+    overflow: hidden;
+}
+.blog-bg-img img{
+    z-index: -1;
+    height: 335px;
+    width: 100%;
+    position: relative;
+}
+.text-bg{
+    border-radius: 10px;
+    padding: 0px 30px;
+}
